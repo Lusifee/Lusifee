@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lusifee
+- 👋 Hi, I’m Lusifee
 - I am new to programming
 - 👀 I lurk around
 - 🌱 I’m currently learning C++ and learning Arduino for my school research project
